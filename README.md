@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1hVVrQHpHLqtSxbQcg3CjO8sRvSvmaFw4/view?usp=sharing">
+
 
 ## What is Helm??
 Helm is the package manager for Kubernetes, which is used for automating creation, packaging, configuration, and deployment of applications and services to Kubernetes Cluster.
